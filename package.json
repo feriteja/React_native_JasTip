@@ -23,7 +23,7 @@
     "react-native-document-picker": "^3.2.4",
     "react-native-gesture-handler": "^1.5.3",
     "react-native-permissions": "^2.0.9",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^0.6.2",
     "react-native-screens": "^2.0.0-alpha.22",
     "react-native-snap-carousel": "^3.8.4",
